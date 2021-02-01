@@ -1,0 +1,3 @@
+(1) check if you sent a email with bad clusters then wait 20 minutes instead of 5 to send another email to avoid mail bombing
+
+(2) Make small script that exits on holidays so our mailboxes are not full on holidays
