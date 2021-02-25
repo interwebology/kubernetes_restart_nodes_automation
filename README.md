@@ -1,5 +1,7 @@
 # Full Kube Monitor App - Sends Alerts If Nodes stay NotReady for over 5 Minutes.
 
+**This was meant to reboot nodes in lab environments which it could still be used for with small adjustments to the script**
+
 This script uses kubectl to switch between contexts listed in lab_cluster.txt and records NotReady nodes. 
 
 If a node stays down for more then 5 minutes then a email is sent to the team members listed in the script.
