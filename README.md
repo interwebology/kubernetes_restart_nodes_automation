@@ -80,7 +80,7 @@ source ~/.profile
 ln -sf /usr/share/zoneinfo/America/Denver /etc/localtime
 ```
 
-### Setup The Script Cron Job to Run During Business Hours
+### Setup The Script Cron Job
 
 Edit the crontab by using the following command
 
