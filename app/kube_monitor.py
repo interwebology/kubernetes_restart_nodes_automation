@@ -128,6 +128,8 @@ if __name__ == "__main__":
 	    if clusters_that_stay_down:
                 #Mail the stuff 
                 mailthing.mail_stuff(clusters_that_stay_down)
+		#for clusters_that_stay_down:
+		#    drain and restart here
 	else:
 	    pass
 
