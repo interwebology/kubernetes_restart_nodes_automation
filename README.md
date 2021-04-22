@@ -1,4 +1,4 @@
-# Full Kube Monitor App - Sends Alerts If Nodes stay NotReady for over 5 Minutes.
+# Restart or Alert On Nodes That stay NotReady for over 5 Minutes.
 
 **This was meant to reboot nodes in lab environments which it could still be used for with small adjustments to the script**
 
