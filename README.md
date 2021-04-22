@@ -1,6 +1,6 @@
 # Restart or Alert On Nodes That stay NotReady for over 5 Minutes.
 
-**This was meant to reboot nodes in lab environments which it could still be used for with small adjustments to the script**
+**This was meant to reboot nodes in lab environments, but was modified to just send an email at one point.**
 
 This script uses kubectl to switch between contexts listed in lab_cluster.txt and records NotReady nodes. 
 
